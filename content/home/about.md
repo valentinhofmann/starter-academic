@@ -12,7 +12,11 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Biography
+design:
+  spacing:
+    padding: ["40px", "0", "40px", "0"]
+
+title: About
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.

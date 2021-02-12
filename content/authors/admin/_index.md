@@ -1,60 +1,52 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Valentin Hofmann
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student in Linguistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Oxford
+  url: https://www.ox.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Linguistic Capabilities of Pretrained Language Models
+- Detection of Language Dynamics in Social Networks
+- Computational Morphology
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Computational Linguistics and Computer Science
+    institution: LMU Munich
+  - course: MSt in Linguistics
+    institution: University of Oxford
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
+- icon: envelope-square
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
+  link: mailto:valentin.hofmann@ling-phil.ox.ac.uk
+- icon: twitter-square
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://twitter.com/vjhofmann
+- icon: google-scholar-square  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=bbHOPKwAAAAJ&hl=de&oi=ao
+- icon: github-square
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/valentinhofmann
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -69,9 +61,13 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+I am a PhD student at the [Faculty of Linguistics](https://www.ling-phil.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/) and 
+a researcher at the [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/), 
+[LMU Munich](https://www.en.uni-muenchen.de/). I am co-advised by [Janet Pierrehumbert](https://eng.ox.ac.uk/people/janet-pierrehumbert/) and 
+[Hinrich Schütze](https://www.cis.uni-muenchen.de/personen/professoren/schuetze/index.html). My PhD is funded by the [AHRC](https://ahrc.ukri.org/) 
+and the [German Academic Scholarship Foundation](https://www.studienstiftung.de/en/).
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research focuses on the link between natural language processing and the social and cognitive sciences.
+I'm particularly interested in lexical dynamics and derivational morphology.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!--- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. --->

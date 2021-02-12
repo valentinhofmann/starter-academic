@@ -10,7 +10,7 @@ headless: true
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
   spacing:
     padding: ["40px", "0", "40px", "0"]
 

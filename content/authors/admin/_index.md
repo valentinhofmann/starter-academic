@@ -69,6 +69,6 @@ a researcher at the [Center for Information and Language Processing](https://www
 and the [German Academic Scholarship Foundation](https://www.studienstiftung.de/en/).
 
 My research focuses on the link between natural language processing and the social and cognitive sciences.
-I'm particularly interested in lexical dynamics and derivational morphology.
+I am particularly interested in lexical dynamics and derivational morphology.
 
 <!--- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. --->

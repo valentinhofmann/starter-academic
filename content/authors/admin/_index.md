@@ -64,7 +64,8 @@ highlight_name: false
 I am a PhD student at the [Faculty of Linguistics](https://www.ling-phil.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/) and 
 a researcher at the [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/), 
 [LMU Munich](https://www.en.uni-muenchen.de/). I am co-advised by [Janet Pierrehumbert](https://eng.ox.ac.uk/people/janet-pierrehumbert/) and 
-[Hinrich Schütze](https://www.cis.uni-muenchen.de/personen/professoren/schuetze/index.html). My PhD is funded by the [AHRC](https://ahrc.ukri.org/) 
+[Hinrich Schütze](https://www.cis.uni-muenchen.de/personen/professoren/schuetze/index.html). My PhD is funded by the 
+[Arts and Humanities Research Council](https://ahrc.ukri.org/) 
 and the [German Academic Scholarship Foundation](https://www.studienstiftung.de/en/).
 
 My research focuses on the link between natural language processing and the social and cognitive sciences.
